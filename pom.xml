@@ -3,18 +3,6 @@
   <groupId>Tester</groupId>
   <artifactId>JenkinsGit</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <properties>
-     <maven.compiler.source>1.11</maven.compiler.source>
-     <maven.compiler.target>1.11</maven.compiler.target>
-</properties>
-<plugin>
-    <groupId>org.apache.maven.plugins</groupId>
-    <artifactId>maven-compiler-plugin</artifactId>
-    <configuration>
-        <source>1.8</source>
-        <target>1.8</target>
-    </configuration>
-</plugin>
   <dependencies>
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 	<dependency>
