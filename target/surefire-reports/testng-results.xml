@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-22T11:40:58 EDT" name="Pilot.Tester" finished-at="2022-08-22T11:41:03 EDT" duration-ms="5261">
+  <suite started-at="2022-08-23T08:54:26 EDT" name="Pilot.Tester" finished-at="2022-08-23T08:54:32 EDT" duration-ms="6485">
     <groups>
       <group name="regression">
         <method signature="Tester.regression()[pri:1, instance:Pilot.Tester@63070bab]" name="regression" class="Pilot.Tester"/>
         <method signature="Tester.launchBrowser()[pri:2, instance:Pilot.Tester@63070bab]" name="launchBrowser" class="Pilot.Tester"/>
       </group> <!-- regression -->
     </groups>
-    <test started-at="2022-08-22T11:40:58 EDT" name="Command line test" finished-at="2022-08-22T11:41:03 EDT" duration-ms="5261">
+    <test started-at="2022-08-23T08:54:26 EDT" name="Command line test" finished-at="2022-08-23T08:54:32 EDT" duration-ms="6485">
       <class name="Pilot.Tester">
-        <test-method signature="priority()[pri:1, instance:Pilot.Tester@63070bab]" started-at="2022-08-22T11:40:58 EDT" name="priority" finished-at="2022-08-22T11:40:58 EDT" duration-ms="6" status="PASS">
+        <test-method signature="priority()[pri:1, instance:Pilot.Tester@63070bab]" started-at="2022-08-23T08:54:26 EDT" name="priority" finished-at="2022-08-23T08:54:26 EDT" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- priority -->
-        <test-method signature="regression()[pri:1, instance:Pilot.Tester@63070bab]" started-at="2022-08-22T11:40:58 EDT" name="regression" finished-at="2022-08-22T11:40:58 EDT" duration-ms="0" status="PASS">
+        <test-method signature="regression()[pri:1, instance:Pilot.Tester@63070bab]" started-at="2022-08-23T08:54:26 EDT" name="regression" finished-at="2022-08-23T08:54:26 EDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- regression -->
-        <test-method signature="launchBrowser()[pri:2, instance:Pilot.Tester@63070bab]" started-at="2022-08-22T11:40:58 EDT" name="launchBrowser" finished-at="2022-08-22T11:41:03 EDT" duration-ms="4698" status="PASS">
+        <test-method signature="launchBrowser()[pri:2, instance:Pilot.Tester@63070bab]" started-at="2022-08-23T08:54:26 EDT" name="launchBrowser" finished-at="2022-08-23T08:54:32 EDT" duration-ms="6198" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Pilot.Tester@63070bab]" started-at="2022-08-22T11:41:03 EDT" name="closeBrowser" finished-at="2022-08-22T11:41:03 EDT" duration-ms="487" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Pilot.Tester@63070bab]" started-at="2022-08-23T08:54:32 EDT" name="closeBrowser" finished-at="2022-08-23T08:54:32 EDT" duration-ms="193" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
